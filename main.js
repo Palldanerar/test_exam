@@ -1,4 +1,4 @@
-const proxy = "https://justcors.com/tl_5efb572/";
+const proxy = "https://justcors.com/tl_14fb8cf/";
 const url = "https://zdkhiu5mp5dwa.elma365.ru/pub/v1/app/test_sreda/test_task/list";
 const token = "6b2a6b4c-51c4-4beb-94b8-250d12d023b1"
 const data = {
